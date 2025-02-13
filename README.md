@@ -10,7 +10,7 @@ Este projeto é um site criado com Streamlit que exibe personagens da série *Ri
 1. Clone o repositório:
    ```bash
    git clone https://github.com/lucasdsd456/rick_and_morty.git
-   cd rick-and-morty-viewer
+   cd rick_and_morty
    ```
 2. Instale as dependências:
    ```bash
